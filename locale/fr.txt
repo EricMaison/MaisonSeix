@@ -1,0 +1,67 @@
+#: locale=fr
+
+## Hotspot
+
+### Tooltip
+HotspotMapOverlayArea_BB956D1C_AD64_7141_41CD_7F635CD88A5E.toolTip = Chambre 1
+HotspotMapOverlayArea_A167F1D4_AEB1_8920_41D8_BBE3F6B16F2C.toolTip = Chambre 1b
+HotspotMapOverlayArea_BB982571_AD64_F1C2_41D1_67DD2E86DE5D.toolTip = Chambre 2
+HotspotMapOverlayArea_BA22917A_AD6C_71C1_41DD_B691554CD0C3.toolTip = Cuisine
+HotspotMapOverlayArea_A1369AB3_AEB7_BB62_41B3_47F4ACBF56D1.toolTip = Cuisine 2
+HotspotMapOverlayArea_BC9B0F5B_AD64_F1C7_417D_020C9D87C0A9.toolTip = Entrée
+HotspotMapOverlayArea_B46DFBB6_AD6C_F141_41E3_EE8511D741B9.toolTip = Escalier 1
+HotspotMapOverlayArea_BA41A553_AD64_71C7_41DC_A8449B35D77D.toolTip = Escalier 2
+HotspotMapOverlayArea_BA0F20A4_AD64_0F41_41E0_CE2142EE028B.toolTip = Escalier 3
+HotspotMapOverlayArea_B5A024A3_ADE4_1747_41DB_36A4A0A4F41A.toolTip = Escalier 4
+HotspotMapOverlayArea_B65B1AE9_AD6C_30C3_41DA_20B3ED7E1FB3.toolTip = Garage
+HotspotMapOverlayArea_B4053CEA_ADE4_10C1_41E1_F9C2130C770B.toolTip = Grenier 1
+HotspotMapOverlayArea_B428FFB2_ADE4_1141_41D7_238CD503F715.toolTip = Grenier 2
+HotspotMapOverlayArea_B50250ED_AD6C_10C3_41DD_6FF2C48A7A30.toolTip = Salle de bain
+HotspotMapOverlayArea_BB79DBDE_AD6C_10FE_41E2_265F807D2A96.toolTip = Salon
+HotspotMapOverlayArea_B4432CAE_ADE4_1741_41E1_F900F43190FF.toolTip = Terrasse
+HotspotMapOverlayArea_BE85BBE0_AEB0_98E1_41BA_52EE9DCA9208.toolTip = Terrasse 2
+HotspotMapOverlayArea_BA4EAFCE_AD64_30C1_41C9_3C56D696B497.toolTip = WC 2
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_B88CA72B_B427_D8FE_41C7_F79D38395D40.url = media/map_A181C3E2_AD65_F0C6_41B8_56DD9207C3D6_fr_0.jpg
+imlevel_B88CC72B_B427_D8FE_41DC_99CE9567C5C3.url = media/map_A181C3E2_AD65_F0C6_41B8_56DD9207C3D6_fr_1.jpg
+imlevel_B88B372B_B427_D8FE_41D3_C0834274623F.url = media/map_A181C3E2_AD65_F0C6_41B8_56DD9207C3D6_fr_2.jpg
+imlevel_B88B272B_B427_D8FE_41E1_DB90526C866C.url = media/map_A181C3E2_AD65_F0C6_41B8_56DD9207C3D6_fr_3.jpg
+
+### Title
+panorama_90F252DF_9EC6_FA12_41E2_CFCDE4CD0B83.label = Chambre1PF
+panorama_90385492_9EC5_7E1A_41E0_DF2C3F874024.label = Chambre1PO
+panorama_8EBFD8A2_9EC5_166C_41D1_90FB975A3F6E.label = Chambre2
+panorama_8CA78748_9E0A_B2BA_41CF_8AF05409171D.label = CuisinePF
+panorama_8E8F7582_9E19_71AE_41C2_63CA3DB65B16.label = CuisinePO
+panorama_9ADD0055_907E_1678_41C4_32CAA1AF489E.label = Entree
+panorama_8F8443B9_9E0E_91DA_41C5_3845CA714301.label = Escalier12
+panorama_90563D21_9EC3_0E00_41DB_E4688E9CF034.label = Escalier23
+panorama_9CBE7A36_904A_EA3B_41E0_EFCEBE520ABE.label = ExcalierR1
+panorama_9D38C624_904A_1DDF_41C0_548E0E3B3C56.label = Garage
+panorama_8EB10273_9EDD_1AB5_41E0_20915DE8CB00.label = Grenier1
+panorama_8F93783E_9EDD_169A_41AA_5D0601AFC981.label = Grenier2
+panorama_91B5EA23_9EC3_0AAA_41D2_98F3C25399C1.label = GrenierHaut
+panorama_8FB3894F_9E0E_9EB5_41E2_14E483498F7E.label = SalonF
+panorama_8F5AEA2E_9E0B_92F7_41DF_642B05094928.label = SalonO
+panorama_8E9A2247_9E19_92B6_41DB_4885A2AFFBD9.label = SdB
+panorama_91BB60D9_9EC3_3798_41DF_A31F7F45C464.label = TerrasseF
+panorama_9045B6BE_9EC3_3B99_41D6_13AE15A1AEEA.label = TerrasseO
+panorama_902F4A1B_9EC3_0A25_41DD_2723F288AFEC.label = Toilettes2
+map_A181C3E2_AD65_F0C6_41B8_56DD9207C3D6.label = plan
+
+## Popup
+
+### Body
+htmlText_8E996BE1_9EC5_0966_41DB_A7F8243745FD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Sortie coté montagne</SPAN></DIV></BODY></HTML></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
